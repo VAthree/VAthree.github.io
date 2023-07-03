@@ -14,4 +14,4 @@ My research interests broadly lie in domain-specific languages and compilers, la
 
 Feel free to drop me an email if you have aligned interests.
 
-[Email](mailto:liu1405214289@163.com) / [Github](https://github.com/VAthree) 
+[Email: liu1405214289[at]163[dot]com](mailto:liu1405214289@163.com) / [Github](https://github.com/VAthree) 
