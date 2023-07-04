@@ -9,11 +9,12 @@ main:
   - title: "Awards and Honors"
     url: /awards/
   #- title: "Talks"
-    # url: /talks/    
-   - title: "Project"
+    # url: /talks/   
+    
+  - title: "Project"
     url: /project/
 
-   - title: "Skills"
+  - title: "Skills"
     url: /skills/
 
   # - title: "Teaching"
