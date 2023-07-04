@@ -1,10 +1,11 @@
 ---
 permalink: /skills/
-title: "Programming Techniques"
+title: "Skills"
 author_profile: true
 redirect_from: 
   - /skills
 ---
+## Programming Techniques
 - Language: C / C++ / Java / Python / Matlab
 - HPC: OpenMP / Pthread / MPI / CUDA / AVX
   - Proficient in a variety of parallel programming techniques.
