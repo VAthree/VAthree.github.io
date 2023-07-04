@@ -1,10 +1,11 @@
 ---
 permalink: /awards/
-title: "Awards"
+title: "Awards and Honors"
 author_profile: true
 redirect_from: 
   - /awards
 ---
+## Awards
 - ***Championship***, Student Cluster Competition (SC 23), Nov. 2022
 - ***Second Place Winner***, ISC 2022 Student Cluster Competition, May. 2022
 - ***Silver***, International Collegiate Programming Contest (ICPC), May. 2022
