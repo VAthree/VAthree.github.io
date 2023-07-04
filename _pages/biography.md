@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /biography
 ---
-<table width="100%" align="middle" border="0" cellspacing="0">
+<table width="100%" align="middle" border="0" cellspacing="0" frame=void>
 <tbody><tr>
   <td width="50%" valign="top"><b>Cornell University</b>, US<br>
   Ph.D. in Computer Science<br>
