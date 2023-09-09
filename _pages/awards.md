@@ -8,7 +8,7 @@ redirect_from:
 
 ## Awards
 - ***Championship***, [Student Cluster Competition (SC 23)](https://studentclustercompetition.us/), Nov. 2022, [News](https://www.sysu.edu.cn/news/info/2161/825941.htm)
-- ***Second Place Winner***, ISC 2022 Student Cluster Competition, May. 2022
+- ***Second Place Winner***, [ISC 2022 Student Cluster Competition](https://www.isc-hpc.com/student-cluster-competition.html), May. 2022, [News]([https://www.sysu.edu.cn/news/info/2161/825941.htm](https://www.sysu.edu.cn/news/info/2161/825941.htm))
 - ***Silver***, International Collegiate Programming Contest (ICPC), May. 2022
 - ***First prize***, Leader, ASC Student Supercomputer Challenge (ASC), Mar. 2022
 - ***Finalist***, Mathematical/Interdisciplinary Contest In Modeling (MCM/ICM), Feb. 2022
