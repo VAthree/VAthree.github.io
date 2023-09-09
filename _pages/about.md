@@ -12,6 +12,6 @@ I am a MSc student at [Center for Data Science](https://www.ds.pku.edu.cn/), [Ac
 
 My research interests broadly lie in domain-specific languages and compilers, large Scale Machine Learning, and accelerator architecture.  In particular, I focus on application-specific optimization on heterogeneous hardware, achieving significant performance acceleration in many applications.
 
-Feel free to drop me an email if you have aligned interests.QwQ
+Feel free to drop me an email if you have aligned interests.
 
 [Email: liu1405214289[at]163[dot]com](mailto:liu1405214289@163.com) / [Github](https://github.com/VAthree) 
